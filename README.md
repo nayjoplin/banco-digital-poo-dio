@@ -1,14 +1,19 @@
-Projeto Banco Digital em Java (POO) - Desafio DIO
+# Banco Digital em Java (POO) – DIO
 
-Projeto prático para reforçar os pilares de POO (Abstração, Encapsulamento, Herança e Polimorfismo) em um **banco digital** com dois tipos de conta: **Corrente** e **Poupança**. Operações: **depósito, saque e transferência** entre contas da mesma instituição.
+Projeto prático desenvolvido no **Bootcamp Santander | DIO**, com o objetivo de reforçar os conceitos de **Programação Orientada a Objetos (POO)** em Java através da abstração de um **banco digital**.
 
-## Como executar (sem packages)
+O sistema permite criar clientes, contas **Corrente** e **Poupança**, realizar **depósitos, saques e transferências** entre contas da mesma instituição.
+---
+
+## Como Executar
 ```bash
-# compilar (gera .class no diretório atual)
+# entrar na pasta src
 cd src
+
+# compilar todos os arquivos
 javac *.java
 
-# executar demo
+# executar a aplicação
 java Main
 ```
 
