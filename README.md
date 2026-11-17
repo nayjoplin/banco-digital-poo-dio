@@ -1,4 +1,15 @@
-# Banco Digital em Java (POO) – DIO
+<div align="center">
+
+![Banco Digital com POO](assets/cover.svg)
+
+# Banco Digital com POO
+
+Aplicação Java com clientes e operações bancárias básicas, desenvolvida como exercício do Santander + DIO
+
+**Bootcamp Santander + DIO**
+
+</div>
+
 
 Projeto prático desenvolvido no **Bootcamp Santander | DIO**, com o objetivo de reforçar os conceitos de **Programação Orientada a Objetos (POO)** em Java através da abstração de um **banco digital**.
 
